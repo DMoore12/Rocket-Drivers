@@ -9,3 +9,5 @@
 /startup
 startup_stm32f407xx.s
 STM32F407VGTx_FLASH.ld
+Makefile
+
