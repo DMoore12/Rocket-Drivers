@@ -1,5 +1,7 @@
 # Rocket Drivers
 
+<p align="center"><img src="resources/RRaPLogo.png" width="900" height="300"></p>
+
 This project contains files written to control the avionics platform for Reusable Rocketry at Purdue's gimbal based Atlas platform. The drivers are also intended for use in the Purdue Space Program's solid rocket program.
 
 > ALL CODE IS PROVIDED AS IS. PLEASE READ THE LICENSE FOR MORE INFORMATION
