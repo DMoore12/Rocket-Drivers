@@ -36,6 +36,7 @@ typedef struct {
 	int32_t pressure;		//P on datasheet (This is a calculated value)
 
 	//Linear Accel Data
+	int16_t accel;
 
 	//IMU Data
 

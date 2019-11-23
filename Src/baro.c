@@ -1,5 +1,5 @@
 /*
- * genericSpi.c
+ * baro.c
  *
  * Author: Dawson Moore (11/9/2019)
  */
@@ -16,6 +16,7 @@
 
 void barometerTask()
 {
+	barometerInit();
 	TickType_t time_init = 0;
 	uint8_t dataIn[2];
 	uint8_t cmd;
