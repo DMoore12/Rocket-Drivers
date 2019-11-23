@@ -11,7 +11,7 @@ This project contains files written to control the avionics platform for Reusabl
 - [x] Create generic SPI bus functions
 - [X] Extract pressure, temperature, and altitude from onboard barometer
 - [ ] Extract (but not parse) NMEA strings from GPS
-- [ ] Extract linear accelerometer data
+- [X] Extract linear accelerometer data
 - [ ] Extract 9 axis IMU data
 
 ## Intended Hardware
