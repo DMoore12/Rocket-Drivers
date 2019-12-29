@@ -18,7 +18,7 @@ extern SPI_HandleTypeDef  hspi1;
 //Structs
 typedef struct {
 	//GPS Data
-	char * gpsString;
+	char * gpsString;       //Use this if you like
 
 	//Baro Data
 	uint16_t senst1;		//C1 on datasheet
